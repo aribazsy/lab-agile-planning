@@ -1,1 +1,3 @@
 # lab-agile-planning
+
+elso teszt volt, most csak probalok beleirni, stb...
